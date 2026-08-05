@@ -1,52 +1,49 @@
-<svg width="260" height="80" viewBox="0 0 260 80" xmlns="http://www.w3.org/2000/svg">
+<svg width="220" height="70" viewBox="0 0 220 70" xmlns="http://www.w3.org/2000/svg">
 
   <defs>
-    <linearGradient id="border" x1="0%" y1="0%" x2="100%" y2="0%">
+    <linearGradient id="grad" x1="0%" x2="100%">
       <stop offset="0%" stop-color="#58A6FF"/>
-      <stop offset="100%" stop-color="#7C3AED"/>
+      <stop offset="100%" stop-color="#8B5CF6"/>
     </linearGradient>
-
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="4" result="blur"/>
-      <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
   </defs>
 
   <rect
       x="2"
       y="2"
-      width="256"
-      height="76"
-      rx="18"
+      rx="14"
+      width="56"
+      height="56"
       fill="#0D1117"
-      stroke="url(#border)"
-      stroke-width="2"/>
+      stroke="#30363D"/>
 
   <text
-      x="48"
-      y="51"
-      font-size="28"
-      font-family="JetBrains Mono, Consolas, monospace"
-      fill="#58A6FF"
-      filter="url(#glow)">&lt;</text>
-
-  <text
-      x="84"
-      y="51"
-      font-size="28"
-      font-family="JetBrains Mono, Consolas, monospace"
+      x="30"
+      y="39"
+      text-anchor="middle"
+      font-family="JetBrains Mono"
+      font-size="24"
       font-weight="700"
-      fill="#FFFFFF">DEV</text>
+      fill="url(#grad)">
+      DEV
+  </text>
 
   <text
-      x="165"
-      y="51"
-      font-size="28"
-      font-family="JetBrains Mono, Consolas, monospace"
-      fill="#58A6FF"
-      filter="url(#glow)">/&gt;</text>
+      x="75"
+      y="32"
+      font-family="Inter"
+      font-size="18"
+      font-weight="700"
+      fill="#FFFFFF">
+      devEduLucas
+  </text>
+
+  <text
+      x="75"
+      y="52"
+      font-family="Inter"
+      font-size="12"
+      fill="#8B949E">
+      Full Stack Software Developer
+  </text>
 
 </svg>
