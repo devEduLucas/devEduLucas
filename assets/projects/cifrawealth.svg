@@ -1,129 +1,180 @@
-<svg width="900" height="420" viewBox="0 0 900 420" xmlns="http://www.w3.org/2000/svg">
+<svg width="1200" height="600" viewBox="0 0 1200 600" xmlns="http://www.w3.org/2000/svg">
 
-<defs>
-    <linearGradient id="g1" x1="0%" y1="0%" x2="100%">
-        <stop offset="0%" stop-color="#58A6FF"/>
-        <stop offset="100%" stop-color="#7C3AED"/>
+  <defs>
+
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#161B22"/>
+      <stop offset="100%" stop-color="#0D1117"/>
     </linearGradient>
-</defs>
 
-<rect width="900" height="420" rx="24" fill="#0D1117"/>
+    <linearGradient id="primary" x1="0%" y1="0%" x2="100%">
+      <stop offset="0%" stop-color="#58A6FF"/>
+      <stop offset="100%" stop-color="#7C3AED"/>
+    </linearGradient>
 
-<rect
-x="25"
-y="25"
-width="850"
-height="370"
-rx="18"
-fill="#161B22"
-stroke="#30363D"/>
+    <filter id="shadow">
+      <feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#000000" flood-opacity=".45"/>
+    </filter>
 
-<text
-x="55"
-y="80"
-font-size="38"
-font-family="Segoe UI"
-font-weight="700"
-fill="white">
+  </defs>
 
-💰 CifraWealth
+  <rect width="1200" height="600" rx="28" fill="url(#bg)"/>
 
-</text>
+  <rect
+      x="40"
+      y="40"
+      width="1120"
+      height="520"
+      rx="24"
+      fill="#0D1117"
+      stroke="#30363D"
+      filter="url(#shadow)"/>
 
-<text
-x="55"
-y="118"
-font-size="20"
-font-family="Segoe UI"
-fill="#8B949E">
+  <text
+      x="80"
+      y="110"
+      fill="#FFFFFF"
+      font-size="46"
+      font-family="Segoe UI"
+      font-weight="700">
 
-Modern Personal Finance Platform
+      💰 CifraWealth
 
-</text>
+  </text>
 
-<line
-x1="55"
-y1="150"
-x2="845"
-y2="150"
-stroke="#30363D"/>
+  <text
+      x="80"
+      y="150"
+      fill="#8B949E"
+      font-size="22"
+      font-family="Segoe UI">
 
-<text
-x="55"
-y="195"
-font-size="18"
-fill="#58A6FF"
-font-family="Segoe UI">
+      Modern Personal Finance Platform
 
-Stack
+  </text>
 
-</text>
+  <rect
+      x="80"
+      y="190"
+      width="180"
+      height="38"
+      rx="19"
+      fill="#1F6FEB"/>
 
-<text
-x="55"
-y="228"
-font-size="22"
-fill="white"
-font-family="Segoe UI">
+  <text
+      x="170"
+      y="214"
+      text-anchor="middle"
+      fill="white"
+      font-size="16"
+      font-family="Segoe UI"
+      font-weight="700">
 
-React • TypeScript • Node.js • Express
+      Active Development
 
-</text>
+  </text>
 
-<text
-x="55"
-y="265"
-font-size="22"
-fill="white"
-font-family="Segoe UI">
+  <line
+      x1="80"
+      y1="260"
+      x2="1120"
+      y2="260"
+      stroke="#30363D"/>
 
-Prisma • MySQL
+  <text
+      x="80"
+      y="315"
+      fill="#58A6FF"
+      font-size="20"
+      font-family="Segoe UI"
+      font-weight="600">
 
-</text>
+      STACK
 
-<line
-x1="55"
-y1="295"
-x2="845"
-y2="295"
-stroke="#30363D"/>
+  </text>
 
-<circle
-cx="66"
-cy="340"
-r="8"
-fill="#3FB950"/>
+  <text
+      x="80"
+      y="355"
+      fill="white"
+      font-size="24"
+      font-family="Segoe UI">
 
-<text
-x="86"
-y="347"
-font-size="20"
-fill="white"
-font-family="Segoe UI">
+      React • TypeScript • Node.js • Express
 
-Active Development
+  </text>
 
-</text>
+  <text
+      x="80"
+      y="395"
+      fill="white"
+      font-size="24"
+      font-family="Segoe UI">
 
-<rect
-x="620"
-y="322"
-width="220"
-height="45"
-rx="10"
-fill="url(#g1)"/>
+      Prisma ORM • MySQL
 
-<text
-x="730"
-y="351"
-text-anchor="middle"
-font-size="18"
-font-family="Segoe UI"
-font-weight="700"
-fill="white">
+  </text>
 
-View Repository →
+  <line
+      x1="80"
+      y1="440"
+      x2="1120"
+      y2="440"
+      stroke="#30363D"/>
 
-</text>
+  <text
+      x="80"
+      y="490"
+      fill="#58A6FF"
+      font-size="20"
+      font-family="Segoe UI"
+      font-weight="600">
+
+      DESCRIPTION
+
+  </text>
+
+  <text
+      x="80"
+      y="530"
+      fill="#C9D1D9"
+      font-size="21"
+      font-family="Segoe UI">
+
+      A complete Full Stack application focused on personal finance,
+
+  </text>
+
+  <text
+      x="80"
+      y="558"
+      fill="#C9D1D9"
+      font-size="21"
+      font-family="Segoe UI">
+
+      scalability, clean architecture and an excellent user experience.
+
+  </text>
+
+  <rect
+      x="885"
+      y="485"
+      width="235"
+      height="50"
+      rx="12"
+      fill="url(#primary)"/>
+
+  <text
+      x="1002"
+      y="516"
+      text-anchor="middle"
+      fill="white"
+      font-size="18"
+      font-family="Segoe UI"
+      font-weight="700">
+
+      View Repository →
+
+  </text>
 
 </svg>
