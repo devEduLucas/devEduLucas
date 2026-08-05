@@ -1,1 +1,52 @@
+<svg width="260" height="80" viewBox="0 0 260 80" xmlns="http://www.w3.org/2000/svg">
 
+  <defs>
+    <linearGradient id="border" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#58A6FF"/>
+      <stop offset="100%" stop-color="#7C3AED"/>
+    </linearGradient>
+
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect
+      x="2"
+      y="2"
+      width="256"
+      height="76"
+      rx="18"
+      fill="#0D1117"
+      stroke="url(#border)"
+      stroke-width="2"/>
+
+  <text
+      x="48"
+      y="51"
+      font-size="28"
+      font-family="JetBrains Mono, Consolas, monospace"
+      fill="#58A6FF"
+      filter="url(#glow)">&lt;</text>
+
+  <text
+      x="84"
+      y="51"
+      font-size="28"
+      font-family="JetBrains Mono, Consolas, monospace"
+      font-weight="700"
+      fill="#FFFFFF">DEV</text>
+
+  <text
+      x="165"
+      y="51"
+      font-size="28"
+      font-family="JetBrains Mono, Consolas, monospace"
+      fill="#58A6FF"
+      filter="url(#glow)">/&gt;</text>
+
+</svg>
