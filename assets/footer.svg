@@ -1,1 +1,36 @@
+<svg width="1200" height="180" xmlns="http://www.w3.org/2000/svg">
 
+<rect width="1200" height="180" fill="#0D1117"/>
+
+<line
+x1="150"
+y1="40"
+x2="1050"
+y2="40"
+stroke="#30363D"/>
+
+<text
+x="600"
+y="95"
+text-anchor="middle"
+font-family="Segoe UI"
+font-size="28"
+fill="#58A6FF">
+
+❯ devEduLucas
+
+</text>
+
+<text
+x="600"
+y="130"
+text-anchor="middle"
+font-family="Segoe UI"
+font-size="18"
+fill="#8B949E">
+
+Building software with purpose.
+
+</text>
+
+</svg>
