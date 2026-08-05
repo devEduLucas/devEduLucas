@@ -420,17 +420,11 @@ I'm always open to connecting with other developers, sharing knowledge and disco
   <img src="https://img.shields.io/badge/GitHub-devEduLucas-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<!--
-SUBSTITUA PELO SEU LINK REAL DO LINKEDIN
--->
-<a href="COLOQUE-SEU-LINKEDIN-AQUI">
+<a href="https://www.linkedin.com/in/eduardo-lucas-487975366/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<!--
-SUBSTITUA PELO SEU EMAIL
--->
-<a href="mailto:COLOQUE-SEU-EMAIL-AQUI">
+<a href="dudu10monster@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact-5B5BD6?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
