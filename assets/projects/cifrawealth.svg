@@ -1,0 +1,129 @@
+<svg width="900" height="420" viewBox="0 0 900 420" xmlns="http://www.w3.org/2000/svg">
+
+<defs>
+    <linearGradient id="g1" x1="0%" y1="0%" x2="100%">
+        <stop offset="0%" stop-color="#58A6FF"/>
+        <stop offset="100%" stop-color="#7C3AED"/>
+    </linearGradient>
+</defs>
+
+<rect width="900" height="420" rx="24" fill="#0D1117"/>
+
+<rect
+x="25"
+y="25"
+width="850"
+height="370"
+rx="18"
+fill="#161B22"
+stroke="#30363D"/>
+
+<text
+x="55"
+y="80"
+font-size="38"
+font-family="Segoe UI"
+font-weight="700"
+fill="white">
+
+💰 CifraWealth
+
+</text>
+
+<text
+x="55"
+y="118"
+font-size="20"
+font-family="Segoe UI"
+fill="#8B949E">
+
+Modern Personal Finance Platform
+
+</text>
+
+<line
+x1="55"
+y1="150"
+x2="845"
+y2="150"
+stroke="#30363D"/>
+
+<text
+x="55"
+y="195"
+font-size="18"
+fill="#58A6FF"
+font-family="Segoe UI">
+
+Stack
+
+</text>
+
+<text
+x="55"
+y="228"
+font-size="22"
+fill="white"
+font-family="Segoe UI">
+
+React • TypeScript • Node.js • Express
+
+</text>
+
+<text
+x="55"
+y="265"
+font-size="22"
+fill="white"
+font-family="Segoe UI">
+
+Prisma • MySQL
+
+</text>
+
+<line
+x1="55"
+y1="295"
+x2="845"
+y2="295"
+stroke="#30363D"/>
+
+<circle
+cx="66"
+cy="340"
+r="8"
+fill="#3FB950"/>
+
+<text
+x="86"
+y="347"
+font-size="20"
+fill="white"
+font-family="Segoe UI">
+
+Active Development
+
+</text>
+
+<rect
+x="620"
+y="322"
+width="220"
+height="45"
+rx="10"
+fill="url(#g1)"/>
+
+<text
+x="730"
+y="351"
+text-anchor="middle"
+font-size="18"
+font-family="Segoe UI"
+font-weight="700"
+fill="white">
+
+View Repository →
+
+</text>
+
+</svg>
