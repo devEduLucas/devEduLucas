@@ -62,7 +62,7 @@ I'm always looking to improve my skills and learn technologies that help me buil
 
 <div align="center">
 
-<img src="./assets/projects/cifrawealth.png" width="100%"/>
+<img src="./assets/projects/cifrawealth.svg" width="100%">
 
 ### CifraWealth
 
