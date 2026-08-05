@@ -1,1 +1,39 @@
+<svg width="1200" height="60" viewBox="0 0 1200 60" xmlns="http://www.w3.org/2000/svg">
 
+<defs>
+
+<linearGradient id="g" x1="0%" x2="100%">
+
+<stop offset="0%" stop-color="#58A6FF"/>
+
+<stop offset="100%" stop-color="#7C3AED"/>
+
+</linearGradient>
+
+</defs>
+
+<line
+x1="0"
+y1="30"
+x2="520"
+y2="30"
+stroke="url(#g)"
+stroke-width="2"
+opacity=".35"/>
+
+<circle
+cx="600"
+cy="30"
+r="5"
+fill="#58A6FF"/>
+
+<line
+x1="680"
+y1="30"
+x2="1200"
+y2="30"
+stroke="url(#g)"
+stroke-width="2"
+opacity=".35"/>
+
+</svg>
