@@ -1,0 +1,112 @@
+<svg width="1280" height="420" viewBox="0 0 1280 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+<defs>
+
+<linearGradient id="bg" x1="0" y1="0" x2="1280" y2="420">
+<stop offset="0%" stop-color="#0D1117"/>
+<stop offset="100%" stop-color="#111827"/>
+</linearGradient>
+
+<linearGradient id="primary" x1="0" y1="0" x2="1280" y2="0">
+<stop offset="0%" stop-color="#58A6FF"/>
+<stop offset="100%" stop-color="#8B5CF6"/>
+</linearGradient>
+
+<filter id="blur1">
+<feGaussianBlur stdDeviation="80"/>
+</filter>
+
+<filter id="blur2">
+<feGaussianBlur stdDeviation="120"/>
+</filter>
+
+</defs>
+
+<rect width="1280" height="420" fill="url(#bg)"/>
+
+<circle
+cx="1080"
+cy="-40"
+r="180"
+fill="#58A6FF"
+opacity=".18"
+filter="url(#blur1)"/>
+
+<circle
+cx="150"
+cy="420"
+r="220"
+fill="#7C3AED"
+opacity=".18"
+filter="url(#blur2)"/>
+
+<g opacity=".08">
+
+<line x1="0" y1="60" x2="1280" y2="60" stroke="#FFFFFF"/>
+<line x1="0" y1="120" x2="1280" y2="120" stroke="#FFFFFF"/>
+<line x1="0" y1="180" x2="1280" y2="180" stroke="#FFFFFF"/>
+<line x1="0" y1="240" x2="1280" y2="240" stroke="#FFFFFF"/>
+<line x1="0" y1="300" x2="1280" y2="300" stroke="#FFFFFF"/>
+<line x1="0" y1="360" x2="1280" y2="360" stroke="#FFFFFF"/>
+
+<line x1="80" y1="0" x2="80" y2="420" stroke="#FFFFFF"/>
+<line x1="180" y1="0" x2="180" y2="420" stroke="#FFFFFF"/>
+<line x1="280" y1="0" x2="280" y2="420" stroke="#FFFFFF"/>
+<line x1="380" y1="0" x2="380" y2="420" stroke="#FFFFFF"/>
+<line x1="480" y1="0" x2="480" y2="420" stroke="#FFFFFF"/>
+<line x1="580" y1="0" x2="580" y2="420" stroke="#FFFFFF"/>
+<line x1="680" y1="0" x2="680" y2="420" stroke="#FFFFFF"/>
+<line x1="780" y1="0" x2="780" y2="420" stroke="#FFFFFF"/>
+<line x1="880" y1="0" x2="880" y2="420" stroke="#FFFFFF"/>
+<line x1="980" y1="0" x2="980" y2="420" stroke="#FFFFFF"/>
+<line x1="1080" y1="0" x2="1080" y2="420" stroke="#FFFFFF"/>
+<line x1="1180" y1="0" x2="1180" y2="420" stroke="#FFFFFF"/>
+
+</g>
+
+<text
+x="90"
+y="95"
+fill="url(#primary)"
+font-size="24"
+font-family="Segoe UI"
+font-weight="700">
+
+● AVAILABLE FOR WORK
+
+</text>
+
+<text
+x="90"
+y="175"
+fill="white"
+font-size="68"
+font-family="Segoe UI"
+font-weight="700">
+
+Eduardo Lucas
+
+</text>
+
+<text
+x="90"
+y="225"
+fill="#A1A1AA"
+font-size="30"
+font-family="Segoe UI">
+
+de Oliveira
+
+</text>
+
+<text
+x="90"
+y="285"
+fill="#58A6FF"
+font-size="30"
+font-family="Segoe UI"
+font-weight="600">
+
+FULL STACK SOFTWARE DEVELOPER
+
+</text>
