@@ -44,19 +44,6 @@ I'm always looking to improve my skills and learn technologies that help me buil
 
 <img src="./assets/divider.svg">
 
-## Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mysql,git,github,vscode,figma,postman&theme=dark"/>
-
-<br><br>
-
-**React Native • Expo • Prisma ORM • JWT • bcrypt • Railway • Render • Vercel**
-
-</div>
-
-<img src="./assets/divider.svg" width="100%">
 
 ## 💰 Featured Project
 
