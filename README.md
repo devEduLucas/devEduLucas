@@ -30,11 +30,6 @@ Building modern web and mobile applications with clean architecture.
 
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="./assets/divider-light.svg">
-  <img src="./assets/divider.svg" width="100%" alt="">
-</picture>
-
 ## About
 
 I'm a Full Stack Software Developer passionate about building scalable applications and transforming ideas into real products.
@@ -44,11 +39,6 @@ Currently studying Systems Development at SENAI, I focus on developing complete 
 My main project is **CifraWealth**, where I apply concepts of clean architecture, authentication, REST APIs, relational databases and responsive interfaces.
 
 I'm always looking to improve my skills and learn technologies that help me build better software.
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="./assets/divider-light.svg">
-  <img src="./assets/divider.svg" width="100%" alt="">
-</picture>
 
 ## 💰 Featured Projects
 
@@ -61,8 +51,6 @@ I'm always looking to improve my skills and learn technologies that help me buil
 **A modern personal finance platform built to simplify financial management while applying clean architecture and scalable Full Stack development.**
 
 </div>
-
-<br>
 
 ### Main Features
 
@@ -95,11 +83,6 @@ I'm always looking to improve my skills and learn technologies that help me buil
 
 > 🚧 **Currently under active development**
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="./assets/divider-light.svg">
-  <img src="./assets/divider.svg" width="100%" alt="">
-</picture>
-
 ## 🚀 Tech Stack
 
 <div align="center">
@@ -114,26 +97,6 @@ React Native • Expo • Prisma ORM • JWT • bcrypt • Railway • Render �
 
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="./assets/divider-light.svg">
-  <img src="./assets/divider.svg" width="100%" alt="">
-</picture>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=devEduLucas&show_icons=true&hide_border=true&theme=github_dark" alt="GitHub stats"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devEduLucas&layout=compact&hide_border=true&theme=github_dark" alt="Top languages"/>
-
-</div>
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="./assets/divider-light.svg">
-  <img src="./assets/divider.svg" width="100%" alt="">
-</picture>
-
 ## 📚 Currently Learning
 
 <div align="center">
@@ -146,11 +109,6 @@ React Native • Expo • Prisma ORM • JWT • bcrypt • Railway • Render �
 | ☁️ AWS | Cloud |
 
 </div>
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="./assets/divider-light.svg">
-  <img src="./assets/divider.svg" width="100%" alt="">
-</picture>
 
 ## 🤝 Let's Connect
 
@@ -168,6 +126,8 @@ React Native • Expo • Prisma ORM • JWT • bcrypt • Railway • Render �
 <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 
-</div>
+<br><br>
 
 <img src="./assets/footer.svg" width="100%" alt="">
+
+</div>
