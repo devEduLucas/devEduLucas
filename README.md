@@ -16,9 +16,9 @@
 
 <br>
 
-<a href="https://github.com/devEduLucas">GitHub</a> •
-<a href="https://www.linkedin.com/in/eduardo-lucas-487975366/">LinkedIn</a> •
-<a href="mailto:dudu10monster@gmail.com">Email</a>
+<a href="https://github.com/devEduLucas"><img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/eduardo-lucas-487975366/"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn"/></a>
+<a href="mailto:dudu10monster@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Email"/></a>
 
 </div>
 
@@ -134,9 +134,9 @@ Cloud infrastructure and deployment
 
 <div align="center">
 
-<a href="https://github.com/devEduLucas">GitHub</a> •
-<a href="https://www.linkedin.com/in/eduardo-lucas-487975366/">LinkedIn</a> •
-<a href="mailto:dudu10monster@gmail.com">Email</a>
+<a href="https://github.com/devEduLucas"><img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/eduardo-lucas-487975366/"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn"/></a>
+<a href="mailto:dudu10monster@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Email"/></a>
 
 <br><br>
 
