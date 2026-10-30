@@ -8,126 +8,130 @@
 
 ### Full Stack Software Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=820&lines=Building+modern+software.;Designing+REST+APIs.;Creating+CifraWealth.;Always+learning." alt="Typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=820&lines=Building+modern+software.;Designing+REST+APIs.;Shipping+with+Docker+%26+Kubernetes.;Creating+CifraWealth." alt="Typing animation"/>
 
 <br>
 
-Building modern web and mobile applications with clean architecture.
+[About](#about) • [Projects](#-projects) • [Tech Stack](#-tech-stack) • [Learning](#-currently-learning) • [Contact](#-lets-connect)
 
 <br>
 
 <a href="https://github.com/devEduLucas">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-
 <a href="https://www.linkedin.com/in/eduardo-lucas-487975366/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-
 <a href="mailto:dudu10monster@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/SENAI-Systems%20Development-1F6FEB?style=flat-square" alt="SENAI"/>
+<img src="https://img.shields.io/badge/Focus-Full%20Stack-7C3AED?style=flat-square" alt="Focus"/>
+<img src="https://img.shields.io/badge/Open%20to-Opportunities-3FB950?style=flat-square" alt="Open to opportunities"/>
 
 </div>
 
 ## About
 
-I'm a Full Stack Software Developer passionate about building scalable applications and transforming ideas into real products.
+Full Stack Software Developer focused on building scalable applications and turning ideas into real products.
 
-Currently studying Systems Development at SENAI, I focus on developing complete solutions, from database modeling to modern user interfaces.
+Currently studying Systems Development at SENAI, I build complete solutions: from database modeling and REST APIs to modern web and mobile interfaces.
 
-My main project is **CifraWealth**, where I apply concepts of clean architecture, authentication, REST APIs, relational databases and responsive interfaces.
+I work with two main stacks:
 
-I'm always looking to improve my skills and learn technologies that help me build better software.
+- **TypeScript:** React, React Native, Node.js, Express, Prisma
+- **Java:** Spring Boot, layered architecture, Docker, Kubernetes
 
-## 💰 Featured Projects
+## 🚀 Projects
 
 <div align="center">
 
-<img src="./assets/projects/cifrawealth.svg" width="100%" alt="CifraWealth">
-
-### CifraWealth
-
-**A modern personal finance platform built to simplify financial management while applying clean architecture and scalable Full Stack development.**
+<img src="./assets/projects/cifrawealth.svg" width="100%" alt="CifraWealth"/>
 
 </div>
 
-### Main Features
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- Secure JWT Authentication
-- Expense & Income Management
+### 💰 CifraWealth
+
+Personal finance platform with clean architecture and a shared codebase across web and mobile.
+
+- JWT authentication
+- Income & expense management
 - Dashboard with financial insights
-- REST API architecture
-- Responsive Interface
-- Clean code organization
+- REST API
+- Web and mobile apps
 
-### Built With
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,ts,nodejs,express,mysql" alt="CifraWealth stack"/>
-</p>
-
-> 🚧 **Currently under active development**
-
-<br>
-
-<div align="center">
-
-### FocoEstudos
-
-**An academic platform built with Spring Boot and React.**
-
-<img src="https://skillicons.dev/icons?i=java,spring,react,mysql" alt="FocoEstudos stack"/>
-
-</div>
-
-> 🚧 **Currently under active development**
-
-## 🚀 Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,java,spring,mysql,git,github,vscode,figma,postman&theme=dark" alt="Tech stack"/>
+<img src="https://skillicons.dev/icons?i=react,ts,nodejs,express,mysql&theme=dark" alt="CifraWealth stack"/>
 
 <br><br>
 
-**Also working with**
+<a href="https://github.com/devEduLucas/CifraWealth_FrontEnd"><img src="https://img.shields.io/badge/Frontend-repo-181717?style=flat-square&logo=github" alt="Frontend"/></a>
+<a href="https://github.com/devEduLucas/CifraWealth_Mobile"><img src="https://img.shields.io/badge/Mobile-repo-181717?style=flat-square&logo=github" alt="Mobile"/></a>
+<a href="https://github.com/devEduLucas/CifraWealth_BackEnd"><img src="https://img.shields.io/badge/Backend-repo-181717?style=flat-square&logo=github" alt="Backend"/></a>
 
-React Native • Expo • Prisma ORM • JWT • bcrypt • Railway • Render • Vercel
+<br><br>
+
+<img src="https://img.shields.io/badge/status-in%20development-1F6FEB?style=flat-square" alt="Status"/>
+
+</td>
+<td width="50%" valign="top">
+
+### 📚 FocoEstudos
+
+Academic platform to organize studies, built with Spring Boot and React.
+
+- REST API in Spring Boot
+- Layered architecture
+- React interface
+- MySQL database
+- Custom visual identity (Figma)
+
+<img src="https://skillicons.dev/icons?i=java,spring,react,mysql,figma&theme=dark" alt="FocoEstudos stack"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/status-in%20development-1F6FEB?style=flat-square" alt="Status"/>
+
+</td>
+</tr>
+</table>
+
+## 🛠 Tech Stack
+
+<div align="center">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=java,js,ts,html,css&theme=dark" alt="Languages"/>
+
+**Frontend & Mobile**
+
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind&theme=dark" alt="Frontend"/>
+
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express,prisma&theme=dark" alt="Backend"/>
+
+**Database**
+
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="Database"/>
+
+**DevOps & Tools**
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,vscode,postman,figma&theme=dark" alt="DevOps and tools"/>
+
+<br>
+
+<sub>Also working with: React Native • Expo • JWT • bcrypt • Railway • Render • Vercel</sub>
 
 </div>
 
 ## 📚 Currently Learning
 
-<div align="center">
-
-| Learning | Focus |
-|----------|-------|
-| ☕ Java | Language fundamentals |
-| 🍃 Spring Boot | REST APIs |
-| 🐳 Docker | Containers |
-| ☁️ AWS | Cloud |
-
-</div>
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-<a href="https://github.com/devEduLucas">
-<img src="https://img.shields.io/badge/GitHub-devEduLucas-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-<a href="https://www.linkedin.com/in/eduardo-lucas-487975366/">
-<img src="https://img.shields.io/badge/LinkedIn-Eduardo%20Lucas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-<a href="mailto:dudu10monster@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
-
-<br><br>
-
-<img src="./assets/footer.svg" width="100%" alt="">
-
-</div>
+<div
