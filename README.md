@@ -16,21 +16,9 @@
 
 <br>
 
-<a href="https://github.com/devEduLucas">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://www.linkedin.com/in/eduardo-lucas-487975366/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:dudu10monster@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/SENAI-Systems%20Development-1F6FEB?style=flat-square" alt="SENAI"/>
-<img src="https://img.shields.io/badge/Focus-Full%20Stack-7C3AED?style=flat-square" alt="Focus"/>
-<img src="https://img.shields.io/badge/Open%20to-Opportunities-3FB950?style=flat-square" alt="Open to opportunities"/>
+<a href="https://github.com/devEduLucas">GitHub</a> •
+<a href="https://www.linkedin.com/in/eduardo-lucas-487975366/">LinkedIn</a> •
+<a href="mailto:dudu10monster@gmail.com">Email</a>
 
 </div>
 
@@ -71,13 +59,13 @@ Personal finance platform with clean architecture and a shared codebase across w
 
 <br><br>
 
-<a href="https://github.com/devEduLucas/CifraWealth_FrontEnd"><img src="https://img.shields.io/badge/Frontend-repo-181717?style=flat-square&logo=github" alt="Frontend"/></a>
-<a href="https://github.com/devEduLucas/CifraWealth_Mobile"><img src="https://img.shields.io/badge/Mobile-repo-181717?style=flat-square&logo=github" alt="Mobile"/></a>
-<a href="https://github.com/devEduLucas/CifraWealth_BackEnd"><img src="https://img.shields.io/badge/Backend-repo-181717?style=flat-square&logo=github" alt="Backend"/></a>
+<a href="https://github.com/devEduLucas/CifraWealth_FrontEnd">Frontend</a> •
+<a href="https://github.com/devEduLucas/CifraWealth_Mobile">Mobile</a> •
+<a href="https://github.com/devEduLucas/CifraWealth_BackEnd">Backend</a>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/status-in%20development-1F6FEB?style=flat-square" alt="Status"/>
+🚧 <b>In development</b>
 
 </td>
 <td width="50%" valign="top">
@@ -96,7 +84,7 @@ Academic platform to organize studies, built with Spring Boot and React.
 
 <br><br>
 
-<img src="https://img.shields.io/badge/status-in%20development-1F6FEB?style=flat-square" alt="Status"/>
+🚧 <b>In development</b>
 
 </td>
 </tr>
@@ -134,4 +122,24 @@ Academic platform to organize studies, built with Spring Boot and React.
 
 ## 📚 Currently Learning
 
-<div
+<div align="center">
+
+### ☁️ AWS
+
+Cloud infrastructure and deployment
+
+</div>
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/devEduLucas">GitHub</a> •
+<a href="https://www.linkedin.com/in/eduardo-lucas-487975366/">LinkedIn</a> •
+<a href="mailto:dudu10monster@gmail.com">Email</a>
+
+<br><br>
+
+<img src="./assets/footer.svg" width="100%" alt=""/>
+
+</div>
