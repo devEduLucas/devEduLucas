@@ -1,180 +1,120 @@
 <svg width="1200" height="600" viewBox="0 0 1200 600" xmlns="http://www.w3.org/2000/svg">
-
   <defs>
-
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#161B22"/>
-      <stop offset="100%" stop-color="#0D1117"/>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#161B22"/>
+      <stop offset="1" stop-color="#0D1117"/>
     </linearGradient>
-
-    <linearGradient id="primary" x1="0%" y1="0%" x2="100%">
-      <stop offset="0%" stop-color="#58A6FF"/>
-      <stop offset="100%" stop-color="#7C3AED"/>
+    <linearGradient id="primary" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#58A6FF"/>
+      <stop offset="1" stop-color="#7C3AED"/>
     </linearGradient>
-
-    <filter id="shadow">
-      <feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#000000" flood-opacity=".45"/>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#58A6FF" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#58A6FF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow2" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#7C3AED" stop-opacity="0.2"/>
+      <stop offset="1" stop-color="#7C3AED" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="clip"><rect width="1200" height="600" rx="28"/></clipPath>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="130%">
+      <feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#000" flood-opacity=".45"/>
     </filter>
-
   </defs>
 
-  <rect width="1200" height="600" rx="28" fill="url(#bg)"/>
+  <g clip-path="url(#clip)">
+    <rect width="1200" height="600" fill="url(#bg)"/>
+    <circle cx="1050" cy="80" r="320" fill="url(#glow)"/>
+    <circle cx="150" cy="560" r="300" fill="url(#glow2)"/>
+  </g>
 
-  <rect
-      x="40"
-      y="40"
-      width="1120"
-      height="520"
-      rx="24"
-      fill="#0D1117"
-      stroke="#30363D"
-      filter="url(#shadow)"/>
+  <rect x="30" y="30" width="1140" height="540" rx="24" fill="#0D1117" fill-opacity="0.85" stroke="#30363D" filter="url(#shadow)"/>
 
-  <text
-      x="80"
-      y="110"
-      fill="#FFFFFF"
-      font-size="46"
-      font-family="Segoe UI"
-      font-weight="700">
+  <!-- Header -->
+  <circle cx="98" cy="108" r="28" fill="url(#primary)"/>
+  <text x="98" y="119" text-anchor="middle" fill="#fff" font-size="32" font-weight="700" font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif">$</text>
+  <text x="142" y="122" fill="#fff" font-size="44" font-weight="700" font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif">CifraWealth</text>
+  <text x="70" y="164" fill="#8B949E" font-size="20" font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif">Modern Personal Finance Platform</text>
 
-      💰 CifraWealth
+  <!-- Badge -->
+  <rect x="70" y="184" width="200" height="34" rx="17" fill="#1F6FEB" fill-opacity="0.2" stroke="#1F6FEB"/>
+  <circle cx="92" cy="201" r="5" fill="#3FB950"/>
+  <text x="106" y="206" fill="#58A6FF" font-size="14" font-weight="600" font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif">Active Development</text>
 
-  </text>
+  <!-- Description -->
+  <text x="70" y="262" fill="#C9D1D9" font-size="20" font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif">Full Stack app to track income and expenses,</text>
+  <text x="70" y="290" fill="#C9D1D9" font-size="20" font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif">with secure authentication and financial insights.</text>
 
-  <text
-      x="80"
-      y="150"
-      fill="#8B949E"
-      font-size="22"
-      font-family="Segoe UI">
+  <!-- Features -->
+  <text x="70" y="338" fill="#58A6FF" font-size="14" font-weight="700" letter-spacing="1.5" font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif">FEATURES</text>
 
-      Modern Personal Finance Platform
+  <g fill="none" stroke="#3FB950" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M70 366l4 4 8-9"/>
+    <path d="M340 366l4 4 8-9"/>
+    <path d="M70 401l4 4 8-9"/>
+    <path d="M340 401l4 4 8-9"/>
+  </g>
+  <g fill="#fff" font-size="17" font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif">
+    <text x="94" y="372">JWT Authentication</text>
+    <text x="364" y="372">Income &amp; Expense Tracking</text>
+    <text x="94" y="407">Dashboard with Insights</text>
+    <text x="364" y="407">REST API + Clean Architecture</text>
+  </g>
 
-  </text>
+  <!-- Stack chips -->
+  <text x="70" y="454" fill="#58A6FF" font-size="14" font-weight="700" letter-spacing="1.5" font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif">STACK</text>
+  <g fill="#161B22" stroke="#30363D">
+    <rect x="70" y="470" width="71" height="36" rx="18"/>
+    <rect x="151" y="470" width="114" height="36" rx="18"/>
+    <rect x="275" y="470" width="88" height="36" rx="18"/>
+    <rect x="373" y="470" width="88" height="36" rx="18"/>
+    <rect x="471" y="470" width="80" height="36" rx="18"/>
+    <rect x="561" y="470" width="71" height="36" rx="18"/>
+  </g>
+  <g fill="#fff" font-size="15" text-anchor="middle" font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif">
+    <text x="105.5" y="493">React</text>
+    <text x="208" y="493">TypeScript</text>
+    <text x="319" y="493">Node.js</text>
+    <text x="417" y="493">Express</text>
+    <text x="511" y="493">Prisma</text>
+    <text x="596.5" y="493">MySQL</text>
+  </g>
 
-  <rect
-      x="80"
-      y="190"
-      width="180"
-      height="38"
-      rx="19"
-      fill="#1F6FEB"/>
+  <!-- Dashboard mock -->
+  <rect x="700" y="80" width="430" height="370" rx="20" fill="#161B22" stroke="#30363D"/>
+  <text x="728" y="118" fill="#8B949E" font-size="13" font-weight="600" letter-spacing="1.2" font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif">TOTAL BALANCE</text>
+  <text x="728" y="160" fill="#fff" font-size="36" font-weight="700" font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif">R$ 12.480,00</text>
+  <rect x="1020" y="104" width="80" height="28" rx="14" fill="#238636" fill-opacity="0.25"/>
+  <text x="1060" y="123" text-anchor="middle" fill="#3FB950" font-size="14" font-weight="700" font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif">+8.2%</text>
 
-  <text
-      x="170"
-      y="214"
-      text-anchor="middle"
-      fill="white"
-      font-size="16"
-      font-family="Segoe UI"
-      font-weight="700">
+  <g fill="#1F6FEB" fill-opacity="0.45">
+    <rect x="728" y="270" width="36" height="60" rx="6"/>
+    <rect x="784" y="240" width="36" height="90" rx="6"/>
+    <rect x="840" y="260" width="36" height="70" rx="6"/>
+    <rect x="896" y="210" width="36" height="120" rx="6"/>
+    <rect x="952" y="230" width="36" height="100" rx="6"/>
+    <rect x="1064" y="220" width="36" height="110" rx="6"/>
+  </g>
+  <rect x="1008" y="190" width="36" height="140" rx="6" fill="url(#primary)"/>
+  <g fill="#8B949E" font-size="12" text-anchor="middle" font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif">
+    <text x="746" y="350">Mon</text>
+    <text x="802" y="350">Tue</text>
+    <text x="858" y="350">Wed</text>
+    <text x="914" y="350">Thu</text>
+    <text x="970" y="350">Fri</text>
+    <text x="1026" y="350">Sat</text>
+    <text x="1082" y="350">Sun</text>
+  </g>
 
-      Active Development
+  <rect x="728" y="372" width="180" height="58" rx="12" fill="#0D1117" stroke="#30363D"/>
+  <text x="744" y="393" fill="#8B949E" font-size="11" font-weight="600" letter-spacing="1" font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif">INCOME</text>
+  <text x="744" y="418" fill="#3FB950" font-size="19" font-weight="700" font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif">R$ 8.200</text>
 
-  </text>
+  <rect x="920" y="372" width="180" height="58" rx="12" fill="#0D1117" stroke="#30363D"/>
+  <text x="936" y="393" fill="#8B949E" font-size="11" font-weight="600" letter-spacing="1" font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif">EXPENSES</text>
+  <text x="936" y="418" fill="#F85149" font-size="19" font-weight="700" font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif">R$ 3.720</text>
 
-  <line
-      x1="80"
-      y1="260"
-      x2="1120"
-      y2="260"
-      stroke="#30363D"/>
-
-  <text
-      x="80"
-      y="315"
-      fill="#58A6FF"
-      font-size="20"
-      font-family="Segoe UI"
-      font-weight="600">
-
-      STACK
-
-  </text>
-
-  <text
-      x="80"
-      y="355"
-      fill="white"
-      font-size="24"
-      font-family="Segoe UI">
-
-      React • TypeScript • Node.js • Express
-
-  </text>
-
-  <text
-      x="80"
-      y="395"
-      fill="white"
-      font-size="24"
-      font-family="Segoe UI">
-
-      Prisma ORM • MySQL
-
-  </text>
-
-  <line
-      x1="80"
-      y1="440"
-      x2="1120"
-      y2="440"
-      stroke="#30363D"/>
-
-  <text
-      x="80"
-      y="490"
-      fill="#58A6FF"
-      font-size="20"
-      font-family="Segoe UI"
-      font-weight="600">
-
-      DESCRIPTION
-
-  </text>
-
-  <text
-      x="80"
-      y="530"
-      fill="#C9D1D9"
-      font-size="21"
-      font-family="Segoe UI">
-
-      A complete Full Stack application focused on personal finance,
-
-  </text>
-
-  <text
-      x="80"
-      y="558"
-      fill="#C9D1D9"
-      font-size="21"
-      font-family="Segoe UI">
-
-      scalability, clean architecture and an excellent user experience.
-
-  </text>
-
-  <rect
-      x="885"
-      y="485"
-      width="235"
-      height="50"
-      rx="12"
-      fill="url(#primary)"/>
-
-  <text
-      x="1002"
-      y="516"
-      text-anchor="middle"
-      fill="white"
-      font-size="18"
-      font-family="Segoe UI"
-      font-weight="700">
-
-      View Repository →
-
-  </text>
-
+  <!-- Button -->
+  <rect x="850" y="470" width="280" height="50" rx="12" fill="url(#primary)"/>
+  <text x="990" y="501" text-anchor="middle" fill="#fff" font-size="18" font-weight="700" font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif">View Repository →</text>
 </svg>
