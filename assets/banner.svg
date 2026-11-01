@@ -1,113 +1,199 @@
-<svg width="1280" height="420" viewBox="0 0 1280 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Pixel art banner: a developer runs and jumps over bugs. Full Stack Developer, open to work." xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYToxZDFiMzU3My00ODI3LTRiNmUtOWMxZC05ZTUyMzlhNGI1M2MAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaLX30XOClZij+5Ck4R91VK4AAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDo2ZDAwMzZhMi04ZTdkLTRmMTMtYjRmMy1iODJiZWU4NTVmMzJscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNogQuIh7Qy0flcnVPnpGkyZgAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFgg0OhtXtOKwsiUvqWdwrfifMv1UJFCa62CVCFiMO+4EOekZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaLWiac3tTlPXseUI/S9M+OsAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRMAAAAAAAAAAAAAAAAZGhhc2hYIG9mtYUrCMOXJKjbMTdKif+XvtfdUByKOD+k78+/oelrZG5hbWVuanVtYmYgbWFuaWZlc3RqZXhjbHVzaW9uc4GiZXN0YXJ0GQEMZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjFkMWIzNTczLTQ4MjctNGI2ZS05YzFkLTllNTIzOWE0YjUzYy9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjgzZGIyZTE0LTRkZGMtNGVlOS1hZDgyLWNhMDZlYjg4MzkwM3JjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCDQ6G1e04rCyJS+pZ3Ct+J8y/VQkUJrrYJUIWIw77gQ56JjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggiC7N6400zeC5WnREMQb+O3ynjCkloKOpca7jypBbhxqiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggOH+VOE+0jF+hSFZeKm+mZ4ndVnMuhhsojOZbxZrSdMp0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQPdPCs5e53r+UKDs7HYtX2pag9lk2vNql484ufOW1G6DRRV/jQk82xG+MDSKResQKTQ/qaA4XDqS2RXwiTpNM+I=</c2pa:manifest></metadata>
+  <title>Full Stack Developer - Open to work</title>
+  <style>
+    .mono { font-family: 'Courier New', Courier, 'Liberation Mono', monospace; font-weight: 700; }
+    .hero { animation: jump 6s linear infinite; }
+    @keyframes jump {
+      0%, 74% { transform: translateY(0); animation-timing-function: cubic-bezier(.2,.7,.4,1); }
+      84% { transform: translateY(-95px); animation-timing-function: cubic-bezier(.6,0,.8,.3); }
+      92%, 100% { transform: translateY(0); }
+    }
+    .lg { animation: step .36s linear infinite; }
+    .lg.r { animation-delay: -.18s; }
+    @keyframes step { 0%, 49.9% { transform: translateY(0); } 50%, 100% { transform: translateY(-6px); } }
+    .bug { animation: bugmove 6s linear infinite; }
+    @keyframes bugmove { from { transform: translateX(1320px); } to { transform: translateX(-120px); } }
+    .ground { animation: gscroll .2s linear infinite; }
+    @keyframes gscroll { to { transform: translateX(-48px); } }
+    .city { animation: cscroll 24s linear infinite; }
+    @keyframes cscroll { to { transform: translateX(-400px); } }
+    .cloud { animation: cloud 45s linear infinite; }
+    @keyframes cloud { from { transform: translateX(1250px); } to { transform: translateX(-250px); } }
+    .blink { animation: blink 1.2s linear infinite; }
+    @keyframes blink { 0%, 55% { opacity: 1; } 56%, 100% { opacity: 0; } }
+    .tw { animation: tw 3s ease-in-out infinite; }
+    @keyframes tw { 0%, 100% { opacity: .15; } 50% { opacity: 1; } }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+  </style>
 
-<defs>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0D1117"/>
+      <stop offset="1" stop-color="#161B22"/>
+    </linearGradient>
+    <linearGradient id="title" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#58A6FF"/>
+      <stop offset="1" stop-color="#A371F7"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#58A6FF" stop-opacity=".28"/>
+      <stop offset="1" stop-color="#58A6FF" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="clip"><rect width="1200" height="300" rx="16"/></clipPath>
 
-<linearGradient id="bg" x1="0" y1="0" x2="1280" y2="420">
-<stop offset="0%" stop-color="#0D1117"/>
-<stop offset="100%" stop-color="#111827"/>
-</linearGradient>
+    <pattern id="sky" x="0" y="152" width="400" height="100" patternUnits="userSpaceOnUse">
+      <g fill="#10161E" shape-rendering="crispEdges">
+        <rect x="0" y="40" width="60" height="60"/>
+        <rect x="70" y="20" width="40" height="80"/>
+        <rect x="120" y="55" width="70" height="45"/>
+        <rect x="200" y="10" width="50" height="90"/>
+        <rect x="260" y="45" width="80" height="55"/>
+        <rect x="350" y="30" width="40" height="70"/>
+      </g>
+      <g fill="#1F6FEB" fill-opacity=".35" shape-rendering="crispEdges">
+        <rect x="10" y="52" width="6" height="6"/><rect x="30" y="70" width="6" height="6"/>
+        <rect x="80" y="34" width="6" height="6"/><rect x="92" y="58" width="6" height="6"/>
+        <rect x="136" y="68" width="6" height="6"/><rect x="164" y="80" width="6" height="6"/>
+        <rect x="212" y="26" width="6" height="6"/><rect x="228" y="52" width="6" height="6"/>
+        <rect x="276" y="60" width="6" height="6"/><rect x="306" y="78" width="6" height="6"/>
+        <rect x="360" y="46" width="6" height="6"/>
+      </g>
+    </pattern>
 
-<linearGradient id="primary" x1="0" y1="0" x2="1280" y2="0">
-<stop offset="0%" stop-color="#58A6FF"/>
-<stop offset="100%" stop-color="#8B5CF6"/>
-</linearGradient>
+    <pattern id="brick" x="0" y="252" width="48" height="48" patternUnits="userSpaceOnUse">
+      <g shape-rendering="crispEdges">
+        <rect width="48" height="8" fill="#2EA043"/>
+        <rect x="4" y="2" width="8" height="2" fill="#3FB950"/>
+        <rect x="28" y="4" width="6" height="2" fill="#3FB950"/>
+        <rect y="8" width="48" height="40" fill="#21262D"/>
+        <rect y="24" width="48" height="2" fill="#0D1117"/>
+        <rect y="46" width="48" height="2" fill="#0D1117"/>
+        <rect x="23" y="10" width="2" height="14" fill="#0D1117"/>
+        <rect x="0" y="26" width="1" height="20" fill="#0D1117"/>
+        <rect x="47" y="26" width="1" height="20" fill="#0D1117"/>
+      </g>
+    </pattern>
 
-<filter id="blur1">
-<feGaussianBlur stdDeviation="80"/>
-</filter>
+    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="1" fill="#000" fill-opacity=".18"/>
+    </pattern>
+  </defs>
 
-<filter id="blur2">
-<feGaussianBlur stdDeviation="120"/>
-</filter>
+  <g clip-path="url(#clip)">
+    <rect width="1200" height="300" fill="url(#bg)"/>
+    <circle cx="1080" cy="120" r="90" fill="url(#glow)"/>
+    <circle cx="1080" cy="120" r="24" fill="#58A6FF" fill-opacity=".16"/>
+    <circle cx="1090" cy="114" r="20" fill="#0D1117"/>
 
-</defs>
+    <!-- stars -->
+    <g fill="#E6EDF3" shape-rendering="crispEdges">
+      <rect class="tw" x="180" y="30" width="3" height="3" style="animation-delay:-.4s"/>
+      <rect class="tw" x="320" y="82" width="3" height="3" style="animation-delay:-1.2s"/>
+      <rect class="tw" x="470" y="26" width="3" height="3" style="animation-delay:-2s"/>
+      <rect class="tw" x="660" y="96" width="3" height="3" style="animation-delay:-.8s"/>
+      <rect class="tw" x="760" y="22" width="3" height="3" style="animation-delay:-1.7s"/>
+      <rect class="tw" x="900" y="90" width="3" height="3" style="animation-delay:-2.4s"/>
+      <rect class="tw" x="990" y="34" width="3" height="3" style="animation-delay:-.2s"/>
+      <rect class="tw" x="1150" y="96" width="3" height="3" style="animation-delay:-1.4s"/>
+      <rect class="tw" x="90" y="100" width="3" height="3" style="animation-delay:-2.7s"/>
+      <rect class="tw" x="560" y="70" width="3" height="3" style="animation-delay:-1s"/>
+    </g>
 
-<rect width="1280" height="420" fill="url(#bg)"/>
+    <!-- clouds -->
+    <g transform="translate(0,96)" fill="#1B2330" shape-rendering="crispEdges">
+      <g class="cloud"><rect x="0" y="12" width="90" height="12"/><rect x="12" y="0" width="40" height="12"/><rect x="52" y="6" width="24" height="6"/></g>
+    </g>
+    <g transform="translate(0,130)" fill="#1B2330" shape-rendering="crispEdges">
+      <g class="cloud" style="animation-delay:-22s; animation-duration:60s"><rect x="0" y="12" width="70" height="10"/><rect x="10" y="2" width="34" height="10"/></g>
+    </g>
 
-<circle
-cx="1080"
-cy="-40"
-r="180"
-fill="#58A6FF"
-opacity=".18"
-filter="url(#blur1)"/>
+    <!-- skyline -->
+    <rect class="city" x="0" y="152" width="1600" height="100" fill="url(#sky)"/>
 
-<circle
-cx="150"
-cy="420"
-r="220"
-fill="#7C3AED"
-opacity=".18"
-filter="url(#blur2)"/>
+    <!-- HUD -->
+    <g class="mono" font-size="13" fill="#8B949E" letter-spacing="2">
+      <text x="48" y="36">PLAYER</text>
+      <text x="600" y="36" text-anchor="middle">WORLD</text>
+      <text x="1152" y="36" text-anchor="end">STATUS</text>
+    </g>
+    <g class="mono" font-size="20" fill="#E6EDF3" letter-spacing="2">
+      <text x="48" y="60">1UP</text>
+      <text x="600" y="60" text-anchor="middle">1-1</text>
+    </g>
+    <g class="mono" font-size="20" letter-spacing="2" text-anchor="end">
+      <text x="1152" y="60" fill="#3FB950">OPEN TO WORK</text>
+    </g>
+    <rect class="blink" x="1002" y="46" width="10" height="10" fill="#3FB950" shape-rendering="crispEdges"/>
 
-<g opacity=".08">
+    <!-- title -->
+    <text class="mono" x="603" y="151" font-size="46" letter-spacing="6" text-anchor="middle" fill="#1F6FEB" fill-opacity=".35">FULL STACK DEVELOPER</text>
+    <text class="mono" x="600" y="148" font-size="46" letter-spacing="6" text-anchor="middle" fill="url(#title)">FULL STACK DEVELOPER</text>
+    <text class="mono" x="600" y="184" font-size="17" letter-spacing="3" text-anchor="middle" fill="#8B949E">JAVA • TYPESCRIPT • REACT • SPRING BOOT • DOCKER • K8S</text>
+    <text class="mono blink" x="600" y="216" font-size="14" letter-spacing="5" text-anchor="middle" fill="#58A6FF">PRESS START</text>
 
-<line x1="0" y1="60" x2="1280" y2="60" stroke="#FFFFFF"/>
-<line x1="0" y1="120" x2="1280" y2="120" stroke="#FFFFFF"/>
-<line x1="0" y1="180" x2="1280" y2="180" stroke="#FFFFFF"/>
-<line x1="0" y1="240" x2="1280" y2="240" stroke="#FFFFFF"/>
-<line x1="0" y1="300" x2="1280" y2="300" stroke="#FFFFFF"/>
-<line x1="0" y1="360" x2="1280" y2="360" stroke="#FFFFFF"/>
+    <!-- bug -->
+    <g transform="translate(0,222)">
+      <g class="bug">
+        <g transform="scale(5)" shape-rendering="crispEdges">
+          <rect x="2" y="0" width="1" height="1" fill="#F85149"/>
+          <rect x="5" y="0" width="1" height="1" fill="#F85149"/>
+          <rect x="1" y="1" width="6" height="1" fill="#F85149"/>
+          <rect x="0" y="2" width="8" height="2" fill="#F85149"/>
+          <rect x="1" y="4" width="6" height="1" fill="#C93C37"/>
+          <rect x="2" y="2" width="1" height="1" fill="#fff"/>
+          <rect x="5" y="2" width="1" height="1" fill="#fff"/>
+          <rect x="2" y="3" width="1" height="1" fill="#0D1117"/>
+          <rect x="5" y="3" width="1" height="1" fill="#0D1117"/>
+          <rect x="1" y="5" width="1" height="1" fill="#C93C37"/>
+          <rect x="3" y="5" width="1" height="1" fill="#C93C37"/>
+          <rect x="4" y="5" width="1" height="1" fill="#C93C37"/>
+          <rect x="6" y="5" width="1" height="1" fill="#C93C37"/>
+        </g>
+      </g>
+    </g>
 
-<line x1="80" y1="0" x2="80" y2="420" stroke="#FFFFFF"/>
-<line x1="180" y1="0" x2="180" y2="420" stroke="#FFFFFF"/>
-<line x1="280" y1="0" x2="280" y2="420" stroke="#FFFFFF"/>
-<line x1="380" y1="0" x2="380" y2="420" stroke="#FFFFFF"/>
-<line x1="480" y1="0" x2="480" y2="420" stroke="#FFFFFF"/>
-<line x1="580" y1="0" x2="580" y2="420" stroke="#FFFFFF"/>
-<line x1="680" y1="0" x2="680" y2="420" stroke="#FFFFFF"/>
-<line x1="780" y1="0" x2="780" y2="420" stroke="#FFFFFF"/>
-<line x1="880" y1="0" x2="880" y2="420" stroke="#FFFFFF"/>
-<line x1="980" y1="0" x2="980" y2="420" stroke="#FFFFFF"/>
-<line x1="1080" y1="0" x2="1080" y2="420" stroke="#FFFFFF"/>
-<line x1="1180" y1="0" x2="1180" y2="420" stroke="#FFFFFF"/>
+    <!-- hero -->
+    <g transform="translate(100,168)">
+      <g class="hero">
+        <g transform="scale(6)" shape-rendering="crispEdges">
+          <rect x="2" y="0" width="6" height="1" fill="#7C3AED"/>
+          <rect x="1" y="1" width="8" height="1" fill="#3B2A20"/>
+          <rect x="0" y="2" width="1" height="2" fill="#7C3AED"/>
+          <rect x="9" y="2" width="1" height="2" fill="#7C3AED"/>
+          <rect x="1" y="2" width="1" height="1" fill="#3B2A20"/>
+          <rect x="8" y="2" width="1" height="1" fill="#3B2A20"/>
+          <rect x="2" y="2" width="6" height="1" fill="#F5C6A0"/>
+          <rect x="1" y="3" width="8" height="1" fill="#F5C6A0"/>
+          <rect x="2" y="4" width="6" height="1" fill="#F5C6A0"/>
+          <rect x="3" y="3" width="1" height="1" fill="#0D1117"/>
+          <rect x="6" y="3" width="1" height="1" fill="#0D1117"/>
+          <rect x="4" y="4" width="2" height="1" fill="#B5654A"/>
+          <rect x="1" y="5" width="8" height="1" fill="#1F6FEB"/>
+          <rect x="0" y="6" width="10" height="2" fill="#1F6FEB"/>
+          <rect x="4" y="5" width="1" height="2" fill="#E6EDF3"/>
+          <rect x="5" y="5" width="1" height="1" fill="#E6EDF3"/>
+          <rect x="3" y="7" width="4" height="1" fill="#1158C7"/>
+          <rect x="1" y="8" width="8" height="1" fill="#1F6FEB"/>
+          <rect x="0" y="8" width="1" height="1" fill="#F5C6A0"/>
+          <rect x="9" y="8" width="1" height="1" fill="#F5C6A0"/>
+          <rect x="2" y="9" width="6" height="1" fill="#30363D"/>
+          <g class="lg">
+            <rect x="2" y="10" width="3" height="3" fill="#30363D"/>
+            <rect x="1" y="13" width="4" height="1" fill="#E6EDF3"/>
+          </g>
+          <g class="lg r">
+            <rect x="5" y="10" width="3" height="3" fill="#30363D"/>
+            <rect x="5" y="13" width="4" height="1" fill="#E6EDF3"/>
+          </g>
+        </g>
+      </g>
+    </g>
 
-</g>
+    <!-- ground -->
+    <rect class="ground" x="0" y="252" width="1350" height="48" fill="url(#brick)"/>
 
-<text
-x="90"
-y="95"
-fill="url(#primary)"
-font-size="24"
-font-family="Segoe UI"
-font-weight="700">
-
-● AVAILABLE FOR WORK
-
-</text>
-
-<text
-x="90"
-y="175"
-fill="white"
-font-size="68"
-font-family="Segoe UI"
-font-weight="700">
-
-Eduardo Lucas
-
-</text>
-
-<text
-x="90"
-y="225"
-fill="#A1A1AA"
-font-size="30"
-font-family="Segoe UI">
-
-de Oliveira
-
-</text>
-
-<text
-x="90"
-y="285"
-fill="#58A6FF"
-font-size="30"
-font-family="Segoe UI"
-font-weight="600">
-
-FULL STACK SOFTWARE DEVELOPER
-
-</text>
+    <!-- CRT scanlines -->
+    <rect width="1200" height="300" fill="url(#scan)"/>
+    <rect x=".5" y=".5" width="1199" height="299" rx="16" fill="none" stroke="#30363D"/>
+  </g>
 </svg>
