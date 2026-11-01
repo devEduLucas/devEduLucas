@@ -12,7 +12,7 @@
 
 <br>
 
-[About](#about) • [Projects](#-projects) • [Tech Stack](#-tech-stack) • [Learning](#-currently-learning) • [Contact](#-lets-connect)
+[About](#about) • [Projects](#-projects) • [Tech Stack](#-tech-stack) • [Analytics](#-github-analytics) • [Learning](#-currently-learning) • [Contact](#-lets-connect)
 
 <br>
 
@@ -117,6 +117,24 @@ Academic platform to organize studies, built with Spring Boot and React.
 <br>
 
 <sub>Also working with: React Native • Expo • JWT • bcrypt • Railway • Render • Vercel</sub>
+
+</div>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="./profile-summary-card-output/radical/0-profile-details.svg" width="100%" alt="Profile details"/>
+
+<img src="./profile-summary-card-output/radical/3-stats.svg" width="49%" alt="GitHub stats"/>
+<img src="./profile-summary-card-output/radical/2-most-commit-language.svg" width="49%" alt="Most used languages"/>
+
+<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devEduLucas/devEduLucas/output/github-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/devEduLucas/devEduLucas/output/github-snake.svg" width="100%" alt="Snake eating contributions"/>
+</picture>
 
 </div>
 
